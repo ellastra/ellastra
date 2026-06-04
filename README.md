@@ -1,6 +1,6 @@
 ## Hyunseo Cho
-- ✨ I study Sociology and Computer science at Yonsei University.
-- 🌱 I currently work as a researcher in Social Networks & Neuroscience Lab.
+- ✨ Per astra, ad astra!
+- Sociology & Computer Science @ Yonsei University
 <!--
 **ellastra/ellastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

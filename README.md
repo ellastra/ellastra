@@ -1,4 +1,4 @@
-## Hyunseo Cho
+## Hyunsuh Cho 조현서
 - ✨ Per astra, ad astra!
 - Sociology & Computer Science @ Yonsei University
 <!--
